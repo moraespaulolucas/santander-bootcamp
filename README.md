@@ -1,2 +1,4 @@
 # santander-bootcamp
-desafio - meu primeiro repositório no github
+
+[DIO Santader Bootcamp](https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-bootcamp-2022)
+Desafio: Meu primeiro repositório no GitHub
